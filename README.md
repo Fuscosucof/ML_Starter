@@ -7,3 +7,7 @@ Source I learn from : [FreecodeCamp](https://youtu.be/i_LwzRVP7bg?si=1P-06dqk5WA
 Data Set source: https://archive.ics.uci.edu/dataset/53/iris
 
 **Disclaimer 3** : This is for my university portfolio and **perhaps** portfolio for attending CAI camp.
+
+For Forest_fire_regression
+
+Data Source : https://archive.ics.uci.edu/dataset/162/forest+fires
