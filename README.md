@@ -3,7 +3,7 @@ For iris classification
 Source I learn from : [FreecodeCamp](https://youtu.be/i_LwzRVP7bg?si=1P-06dqk5WAu1Hb8
 )
 
-**Disclaimer 2** : I try a similar code learn from the source but try with other datasets and try change code to be able to work with this iris datasets such as label encoding since the target has 3 classes.
+**Disclaimer 2** : I try a similar code learn from the source including KNN, Naive Bayes, Logistic Regression, SVM, Neural Network but try with iris datasets and try change code to be able to work with this iris datasets such as label encoding since the target has 3 classes and more.
 Data Set source: https://archive.ics.uci.edu/dataset/53/iris
 
 **Disclaimer 3** : This is for my university portfolio and **perhaps** portfolio for attending CAI camp.
